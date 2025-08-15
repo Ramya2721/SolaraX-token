@@ -1,0 +1,12 @@
+{
+  "name": "SolaraX",
+  "symbol": "SLX",
+  "description": "SolaraX is a cool new token on Solana!",
+  "image": "SolaraX.png",
+  "external_url": "https://github.com/Ramya2721/SolaraX-token",
+  "attributes": [
+    { "trait_type": "Type", "value": "Utility" },
+    { "trait_type": "Blockchain", "value": "Solana" }
+  ]
+}
+
